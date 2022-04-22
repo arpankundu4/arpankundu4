@@ -4,17 +4,22 @@
 <p align="center"> <a href="https://twitter.com/iarpank" target="blank"><img src="https://img.shields.io/twitter/follow/iarpank?logo=twitter&style=for-the-badge" alt="iarpank" /></a> </p>
 
 - 👨‍💻 I write code & trade stocks
+
 - 🎯 My aim is to solve real-life problems using tech
+
 - 📈 I’m currently learning backend technologies like **Java, SpringBoot, MongoDB**
+
 - 🤝🏻 I'm looking to collaborate with frontend devs for my personal projects
+
 - 💬 I like to discuss tech & money
+
 - 📬 Reach me at [my mailbox](mailto:arpan.kundu.4@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arpankundu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpankundu4" height="30" width="40" /></a>
-<a href="https://twitter.com/iArpanK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iArpanK" height="30" width="40" /></a>
-<a href="https://instagram.com/arpankundu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpankundu4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arpankundu4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arpankundu4" height="30" width="40" /></a>
+<a href="https://twitter.com/iArpanK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iArpanK" height="30" width="40" /></a>
+<a href="https://instagram.com/arpankundu4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arpankundu4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
