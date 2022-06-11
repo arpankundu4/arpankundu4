@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpan</h1>
 <h3 align="center">A passionate backend developer from India 🇮🇳</h3>
 
+<!--
 <p align="center"> <a href="https://twitter.com/iarpank" target="blank"><img src="https://img.shields.io/twitter/follow/iarpank?logo=twitter&style=for-the-badge" alt="iarpank" /></a> </p>
+-->
 
 - 👨‍💻 I write code & trade stocks
 
