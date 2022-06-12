@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://paytm.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104189687/173213747-8a70ca8e-1d10-4d02-906c-f8f9888d39e2.svg" alt="paytm" height="30" width="70" /></a>
 &nbsp&nbsp
-<a href="https://linkedin.com/in/arpankundu4" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104189687/173214106-67b7b6ae-e410-4f4d-98f5-7634451d798f.svg" alt="crio" height="30" width="90" /></a>
+<a href="https://crio.do" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104189687/173215461-f353bfce-95a7-4c51-b241-d4c6696edf71.svg" alt="crio" height="30" width="90" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
